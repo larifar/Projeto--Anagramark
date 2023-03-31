@@ -1,1 +1,1 @@
-Olá, estou aprendendo a mexer no github.
+Olá, estou aprendendo a mexer no GITHUB.
